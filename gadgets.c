@@ -1,3 +1,11 @@
+/*
+ *	Copyright 2014 Joseph Landry
+ *
+ *
+ */
+
+
+
 #include <stdlib.h>
 #include <string.h>
 #include <assert.h>

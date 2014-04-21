@@ -1,3 +1,11 @@
+/*
+ *  Copyright 2014 Joseph Landry
+ *
+ *
+ */
+
+
+
 #ifndef GADGETS_H
 #define GADGETS_H
 

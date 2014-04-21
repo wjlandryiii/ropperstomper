@@ -1,3 +1,11 @@
+/*
+ *  Copyright 2014 Joseph Landry
+ *
+ *
+ */
+
+
+
 #ifndef LLIST_H
 #define LLIST_H
 

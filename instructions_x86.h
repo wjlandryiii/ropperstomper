@@ -1,3 +1,11 @@
+/*
+ *	Copyright 2014 Joseph Landry
+ *
+ *
+ */
+
+
+
 #ifndef INSTRUCTIONS_X86
 #define INSTRUCTIONS_X86
 

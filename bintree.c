@@ -1,3 +1,10 @@
+/*
+ *	Copyright 2014 Joseph Landry
+ *
+ *
+ */
+
+
 #include <stdlib.h>
 #include <assert.h>
 #include "bintree.h"

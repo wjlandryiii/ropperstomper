@@ -1,3 +1,10 @@
+/*
+ *  Copyright 2014 Joseph Landry
+ *
+ *
+ */
+
+
 #ifndef BINTREE_H
 #define BINTREE_H
 

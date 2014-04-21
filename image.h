@@ -1,3 +1,11 @@
+/*
+ *  Copyright 2014 Joseph Landry
+ *
+ *
+ */
+
+
+
 #ifndef IMAGE_H
 #define IMAGE_H
 

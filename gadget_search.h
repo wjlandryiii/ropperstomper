@@ -1,3 +1,11 @@
+/*
+ *  Copyright 2014 Joseph Landry
+ *
+ *
+ */
+
+
+
 #ifndef GADGET_SEARCH_H
 #define GADGET_SEARCH_H
 
